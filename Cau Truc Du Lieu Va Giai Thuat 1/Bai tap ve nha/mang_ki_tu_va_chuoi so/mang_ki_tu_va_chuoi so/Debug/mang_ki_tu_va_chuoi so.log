@@ -1,0 +1,19 @@
+﻿Build started 9/25/2018 6:54:55 PM.
+     1>Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIII\Cau Truc Du Lieu Va Giai Thuat 1\Bai tap ve nha\mang_ki_tu_va_chuoi so\mang_ki_tu_va_chuoi so\mang_ki_tu_va_chuoi so.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\mang_ki_tu.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIII\Cau Truc Du Lieu Va Giai Thuat 1\Bai tap ve nha\mang_ki_tu_va_chuoi so\Debug\mang_ki_tu.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mang_ki_tu.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIII\Cau Truc Du Lieu Va Giai Thuat 1\Bai tap ve nha\mang_ki_tu_va_chuoi so\Debug\mang_ki_tu.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIII\Cau Truc Du Lieu Va Giai Thuat 1\Bai tap ve nha\mang_ki_tu_va_chuoi so\Debug\mang_ki_tu.lib" /MACHINE:X86 Debug\Mang_Ki_Tu.obj
+         mang_ki_tu_va_chuoi so.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIII\Cau Truc Du Lieu Va Giai Thuat 1\Bai tap ve nha\mang_ki_tu_va_chuoi so\Debug\mang_ki_tu.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIII\Cau Truc Du Lieu Va Giai Thuat 1\Bai tap ve nha\mang_ki_tu_va_chuoi so\Debug\mang_ki_tu.exe;#1" /manifest Debug\mang_ki_tu.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\mang_ki_tu.unsuccessfulbuild".
+         Touching "Debug\mang_ki_tu.lastbuildstate".
+     1>Done Building Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIII\Cau Truc Du Lieu Va Giai Thuat 1\Bai tap ve nha\mang_ki_tu_va_chuoi so\mang_ki_tu_va_chuoi so\mang_ki_tu_va_chuoi so.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.62
